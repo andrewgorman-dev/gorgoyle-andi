@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gorgoyle-andi
-- 👀 I’m interested in human and non-human animal rights, moral philosophy, internet ethics, music and sport.
+- 👀 I’m interested in music, human and non-human animal rights, moral philosophy, internet ethics and sport.
 - 🌱 I’m currently learning javascript/typescript and php
 - 💞️ I’m looking to collaborate with anyone for now so I can learn and grow
 - 📫 How to reach me either at fourchestra@tutanota.com or via my website: https://www.andrewgorman.art
